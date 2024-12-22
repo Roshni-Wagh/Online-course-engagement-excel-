@@ -1,1 +1,2 @@
 # Online-course-engagement-excel-
+Online course engagement analysis using Excel involves evaluating student interactions with course materials to understand participation, learning patterns, and content effectiveness. By organizing data such as login frequency, time spent on modules, quiz scores, forum activity, and video views, you can analyze overall engagement.This analysis helps course creators optimize content delivery, improve student experience, and increase course completion rates.
